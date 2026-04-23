@@ -1,0 +1,7 @@
+Command: Dict {
+    a = one
+    arr = Array {
+        x
+    }
+}
+Command: 

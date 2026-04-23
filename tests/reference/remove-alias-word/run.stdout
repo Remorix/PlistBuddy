@@ -1,0 +1,8 @@
+Dict {
+    root = Dict {
+        a = one
+        arr = Array {
+            x
+        }
+    }
+}
